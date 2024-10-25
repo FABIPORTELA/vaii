@@ -52,6 +52,7 @@ body{
     sobre-nos{
     padding: 20%;
     text-align: right;
+    justify-content: center;
     color: #fff;
     width: 50%;
     font: 40%;
@@ -60,6 +61,7 @@ body{
     contato {
     padding: 20%;
     text-align: right;
+    justify-content: center;
     color: #fff;
     width: 50%;
     font: 40;
