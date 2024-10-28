@@ -1,73 +1,58 @@
 body {
+margin: 0%;
 text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #56b5f5
-    line-height: 1.6;
+padding: 0%;
+box-singing: boder-box;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #5bb7f5;
+line-height: 1.6;
 }
 
-    header {
-    background-color: #CBDCEB
-    color: white;
-    width: 80%; 
-    padding: 20px;
+header {
+background-color:  #3498db;
+color: white;
+width: 80;
+padding: 15px;
+text-align: center;
+}
+
+titulo {
+padding: 15px;
+text-align: center;
+width: 50;
+font: 40;
+}
+
+nav_ul_li_a {
+color: #3498db;
+text-decoration: none;
+}
+
+main {
+padding: 50px;
+text-align: center;
+width: 50%;
+font: 40;
+}
+
+bem-vindo {
+    padding: 50px;
     text-align: center;
-    }
-    
-    titulo {
-    padding: 20px;
-    justify-self: center;
-    width: 50%;
-    font: 40%;
-    }
-    
-    nav_ul_li_a {
-    color: #3498db;
-    text-decoration: none
-    }
-    
-    nav_ul_li_a: :hover{
-    color: #2980b9
-    }
-    
-    home{
-    padding: 20px;
-    text-align: left;
-    color: #fff;
-    width: 50%;
-    font: 40%;
-    }
-    
-    home {
-    padding: 50%;
-    justify-self: center;
-    color: #fff;
-    width: 50%;
-    font: 40%;
-    }
-    
-    sobre-nos{
-    padding: 20%;
-    text-align: right;
-    justify-content: center;
-    color: #fff;
-    width: 50%;
-    font: 40%;
-    }
-    
-    contato {
-    padding: 20%;
-    text-align: right;
-    justify-content: center;
-    color: #fff;
     width: 50%;
     font: 40;
-    }
-    
-    rodape {
-    background-color: #333;
-    color: #fff;
+}
+
+sobre-nos {
+    padding: 50px;
     text-align: center;
-    padding: 1 rem 0 ;
-    font-size: 0.9 rem ;
-    margin-top: 2 rem;
-    }
+    width: 50%;
+    font: 40;
+}
+
+contatoss  {
+    padding: 50px;
+    text-align: center;
+    width: 50%;
+    font: 40;
+}
+
